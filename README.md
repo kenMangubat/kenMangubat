@@ -23,11 +23,13 @@ I’m currently enhancing my skills through hands-on coding projects, self-study
 
 ---
 
-## 💻 Programming Languages
+## 📊 Tech Stack
 
-- 🔷 C / C++ – Systems programming, memory management, basic CLI tools  
-- ☕ Java – OOP, backend logic, file handling, and simulation projects  
-- 🐍 Currently exploring: Python for scripting and automation
+![C](https://img.shields.io/badge/C-Expert-informational?style=flat&logo=c&logoColor=white&color=blue)
+![C++](https://img.shields.io/badge/C++-Advanced-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)
+![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=flat&logo=python&logoColor=black)
+
 
 ---
 
