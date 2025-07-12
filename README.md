@@ -27,11 +27,9 @@ I’m currently enhancing my skills through hands-on coding projects, self-study
 
 | Language     | Proficiency |
 |--------------|-------------|
-| C            | 90%         |
-| C++          | 85%         |
-| Java         | 80%         |
-| Python       | 70%         |
-| Bash         | 60%         |
+| C            | 70%         |
+| C++          | 65%         |
+| Java         | 90%         |
 | HTML/CSS     | 50%         |
 
 
